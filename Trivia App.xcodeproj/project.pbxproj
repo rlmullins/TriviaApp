@@ -14,6 +14,9 @@
 		82946AAD207FF2B800DE1B24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82946AAB207FF2B800DE1B24 /* LaunchScreen.storyboard */; };
 		82946AB8207FF2B800DE1B24 /* Trivia_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82946AB7207FF2B800DE1B24 /* Trivia_AppTests.swift */; };
 		82946AC3207FF2B800DE1B24 /* Trivia_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82946AC2207FF2B800DE1B24 /* Trivia_AppUITests.swift */; };
+		82946AD1207FF30600DE1B24 /* 595216942.0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 82946AD0207FF30600DE1B24 /* 595216942.0.jpg */; };
+		82946AD3207FF30C00DE1B24 /* mercedes-benz-celebrates-20th-anniversary-of-decision-to-build-us-plant-68308_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 82946AD2207FF30C00DE1B24 /* mercedes-benz-celebrates-20th-anniversary-of-decision-to-build-us-plant-68308_1.jpg */; };
+		82946AD5207FF31300DE1B24 /* 97489205f4845_36.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 82946AD4207FF31300DE1B24 /* 97489205f4845_36.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		82946ABE207FF2B800DE1B24 /* Trivia AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Trivia AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		82946AC2207FF2B800DE1B24 /* Trivia_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trivia_AppUITests.swift; sourceTree = "<group>"; };
 		82946AC4207FF2B800DE1B24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82946AD0207FF30600DE1B24 /* 595216942.0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 595216942.0.jpg; path = ../../Downloads/595216942.0.jpg; sourceTree = "<group>"; };
+		82946AD2207FF30C00DE1B24 /* mercedes-benz-celebrates-20th-anniversary-of-decision-to-build-us-plant-68308_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "mercedes-benz-celebrates-20th-anniversary-of-decision-to-build-us-plant-68308_1.jpg"; path = "../../Downloads/mercedes-benz-celebrates-20th-anniversary-of-decision-to-build-us-plant-68308_1.jpg"; sourceTree = "<group>"; };
+		82946AD4207FF31300DE1B24 /* 97489205f4845_36.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 97489205f4845_36.jpg; path = ../../Downloads/97489205f4845_36.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +87,9 @@
 				82946AB6207FF2B800DE1B24 /* Trivia AppTests */,
 				82946AC1207FF2B800DE1B24 /* Trivia AppUITests */,
 				82946AA0207FF2B800DE1B24 /* Products */,
+				82946AD0207FF30600DE1B24 /* 595216942.0.jpg */,
+				82946AD2207FF30C00DE1B24 /* mercedes-benz-celebrates-20th-anniversary-of-decision-to-build-us-plant-68308_1.jpg */,
+				82946AD4207FF31300DE1B24 /* 97489205f4845_36.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -232,9 +241,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82946AD5207FF31300DE1B24 /* 97489205f4845_36.jpg in Resources */,
 				82946AAD207FF2B800DE1B24 /* LaunchScreen.storyboard in Resources */,
+				82946AD3207FF30C00DE1B24 /* mercedes-benz-celebrates-20th-anniversary-of-decision-to-build-us-plant-68308_1.jpg in Resources */,
 				82946AAA207FF2B800DE1B24 /* Assets.xcassets in Resources */,
 				82946AA8207FF2B800DE1B24 /* Main.storyboard in Resources */,
+				82946AD1207FF30600DE1B24 /* 595216942.0.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
